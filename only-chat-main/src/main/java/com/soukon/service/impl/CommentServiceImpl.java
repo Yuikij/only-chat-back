@@ -1,14 +1,15 @@
 package com.soukon.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
-import com.soukon.auth.domain.CommentDO;
-import com.soukon.auth.domain.CommentDTO;
-import com.soukon.auth.mapper.CommentMapper;
-import com.soukon.auth.service.CommentService;
+import com.soukon.domain.CommentDO;
+import com.soukon.domain.CommentDTO;
+import com.soukon.mapper.CommentMapper;
+import com.soukon.service.CommentService;
+import jakarta.annotation.Resource;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 
-import javax.annotation.Resource;
+
 import java.util.List;
 import java.util.stream.Collectors;
 

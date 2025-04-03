@@ -1,6 +1,8 @@
 package com.soukon.service;
 
-import com.soukon.auth.domain.CommentDTO;
+
+import com.soukon.domain.CommentDTO;
+
 import java.util.List;
 
 public interface CommentService {
