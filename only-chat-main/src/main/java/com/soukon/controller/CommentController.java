@@ -1,4 +1,4 @@
-package com.soukon.auth.controller;
+package com.soukon.controller;
 
 import com.soukon.auth.domain.CommentDTO;
 import com.soukon.auth.service.CommentService;

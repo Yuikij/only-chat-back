@@ -1,4 +1,4 @@
-package com.soukon.auth.domain;
+package com.soukon.domain;
 
 import com.baomidou.mybatisplus.annotation.*;
 import lombok.Data;

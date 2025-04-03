@@ -1,4 +1,4 @@
-package com.soukon.auth.mapper;
+package com.soukon.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.soukon.auth.domain.CommentDO;

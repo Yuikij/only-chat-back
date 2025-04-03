@@ -1,4 +1,4 @@
-package com.soukon.auth.service.impl;
+package com.soukon.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.soukon.auth.domain.CommentDO;

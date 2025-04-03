@@ -1,4 +1,4 @@
-package com.soukon.auth.service;
+package com.soukon.service;
 
 import com.soukon.auth.domain.CommentDTO;
 import java.util.List;
